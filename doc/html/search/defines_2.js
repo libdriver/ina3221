@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['ina3221_5freg_5fchannel_5f1_5fbus_5fvoltage_0',['INA3221_REG_CHANNEL_1_BUS_VOLTAGE',['../driver__ina3221_8c.html#a0b95429d22a2145fe7a161210ad01245',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f1_5fcritical_5falert_5flimit_1',['INA3221_REG_CHANNEL_1_CRITICAL_ALERT_LIMIT',['../driver__ina3221_8c.html#a272804228cc65f4a707dea18717ab728',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f1_5fshunt_5fvoltage_2',['INA3221_REG_CHANNEL_1_SHUNT_VOLTAGE',['../driver__ina3221_8c.html#acab042675961727258712f69b2a37787',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f1_5fwarning_5falert_5flimit_3',['INA3221_REG_CHANNEL_1_WARNING_ALERT_LIMIT',['../driver__ina3221_8c.html#a906ef4a958d6bc422778a44499712b09',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f2_5fbus_5fvoltage_4',['INA3221_REG_CHANNEL_2_BUS_VOLTAGE',['../driver__ina3221_8c.html#a297353b77af550878a9b25f7e29801cc',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f2_5fcritical_5falert_5flimit_5',['INA3221_REG_CHANNEL_2_CRITICAL_ALERT_LIMIT',['../driver__ina3221_8c.html#a2c31a997921463a34ee449e329b203c1',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f2_5fshunt_5fvoltage_6',['INA3221_REG_CHANNEL_2_SHUNT_VOLTAGE',['../driver__ina3221_8c.html#a15de350ba588ab461c8cf5d6ff070446',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f2_5fwarning_5falert_5flimit_7',['INA3221_REG_CHANNEL_2_WARNING_ALERT_LIMIT',['../driver__ina3221_8c.html#ad816d6a07ee466b8204314c3e4fa613a',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f3_5fbus_5fvoltage_8',['INA3221_REG_CHANNEL_3_BUS_VOLTAGE',['../driver__ina3221_8c.html#a05f71958ec62a405f3d48b57e1398009',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f3_5fcritical_5falert_5flimit_9',['INA3221_REG_CHANNEL_3_CRITICAL_ALERT_LIMIT',['../driver__ina3221_8c.html#a3dd8a3bc09adde92af872e89ea5126d5',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f3_5fshunt_5fvoltage_10',['INA3221_REG_CHANNEL_3_SHUNT_VOLTAGE',['../driver__ina3221_8c.html#a26203b738cb1293945af63c50a0ef12d',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fchannel_5f3_5fwarning_5falert_5flimit_11',['INA3221_REG_CHANNEL_3_WARNING_ALERT_LIMIT',['../driver__ina3221_8c.html#ad199f6adde9dd69762700abcb9a9498e',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fconf_12',['INA3221_REG_CONF',['../driver__ina3221_8c.html#a8ffce9bb99870f61f3fc7ababf8f6b6c',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fdie_5fid_13',['INA3221_REG_DIE_ID',['../driver__ina3221_8c.html#a08680ac96586200fe7ea8650fdc28a62',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fenable_5fmask_14',['INA3221_REG_ENABLE_MASK',['../driver__ina3221_8c.html#acfc8593f8306c428b3a381dd6e390f60',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fmanufacturer_5fid_15',['INA3221_REG_MANUFACTURER_ID',['../driver__ina3221_8c.html#a623228b5ea8c8e5b8e3410996400699d',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fpower_5fvalid_5flower_5flimit_16',['INA3221_REG_POWER_VALID_LOWER_LIMIT',['../driver__ina3221_8c.html#a0a0836c685ed166140ec3f426f29938e',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fpower_5fvalid_5fupper_5flimit_17',['INA3221_REG_POWER_VALID_UPPER_LIMIT',['../driver__ina3221_8c.html#a7283a5356471e2b1f8215e758d21c374',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fshunt_5fvoltage_5fsum_18',['INA3221_REG_SHUNT_VOLTAGE_SUM',['../driver__ina3221_8c.html#a102080a96244465a1142e32b791e9ec4',1,'driver_ina3221.c']]],
+  ['ina3221_5freg_5fshunt_5fvoltage_5fsum_5flimit_19',['INA3221_REG_SHUNT_VOLTAGE_SUM_LIMIT',['../driver__ina3221_8c.html#a21caafb968652e2042dc8f5def96740b',1,'driver_ina3221.c']]]
+];
